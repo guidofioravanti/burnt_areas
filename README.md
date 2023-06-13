@@ -31,4 +31,6 @@ Two main products available [here](https://cds.climate.copernicus.eu/cdsapp#!/da
 | 5.1.1cds  | 2001 - 2019         | Global, around 30 km (0.25° x 0.25°) | Monthly | From 2014 to 2022 | Sensor: MODIS | netCDF |
 | 1.1       | 2020 - 2022         |                     |           |            |  Sensor: OLCI    | netCDF |   
 
+The variable of interest is "burned area".
+
 
