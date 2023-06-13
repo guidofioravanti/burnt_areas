@@ -28,6 +28,7 @@ Two main products available [here](https://cds.climate.copernicus.eu/cdsapp#!/da
 
 | Version   | Temporal coverage   | Spatial Information | Composite | Downloaded | Note | Format |
 |-----------|---------------------|---------------------|-----------|------------|------|--------|
-| 5.1.1cds  | 2001 - 2019         | Global, around 30 km (0.25° x 0.25°) | Monthly | From 2014 to 2022 | the download process is very quick | netCDF |
+| 5.1.1cds  | 2001 - 2019         | Global, around 30 km (0.25° x 0.25°) | Monthly | From 2014 to 2022 | Sensor: MODIS | netCDF |
+| 1.1       | 2020 - 2022         |                     |           |            |  Sensor: OLCI    | netCDF |   
 
 
