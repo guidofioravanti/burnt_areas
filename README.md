@@ -13,6 +13,11 @@ Two main products:
 |-----------|---------------------|---------------------|-----------|------------|------|--------|
 | Version 3 | July 2020 - present | Global, 300m        | Monthly   |   From April 2021 - May 2022         |      | The data from May 2022 - onward are not available       |
 | Version 1 | April 2014 - March 2021 | Global, 300m    |           |   From April 2014 - March 2021      | The Copernicus Land page says that the product covers the period April 2014 - March 2020 | netCDF |    
+Issues: 
+
+*there is a technical issue with the routine production of version 3. This is being addressed in the production team and will result in a new release of Burnt Area products, normally in July.*
+
+(mail from Tim Jacobs, VITO RS Support)
 
 ## Input data from Copernicus Climate Change Service
 
